@@ -11,15 +11,16 @@ The talk was prepared using the awesome [impress.js](http://github.com/bartaz/im
 References
 ----------
 
-Here are list of things which I refered for this talk: 
-+ Passionate Programmer by Chad Fowler
-+ Outliers by Malcolm Gladwell
-+ Rework from 37 Signals
-+ I Bought the Monk's Ferrari by Ravi Subramanian
-+ Do the Work by Seth Godin
-+ The Bonsai Manager by Gopalakrishnan
-+ The Lean Startup by Eric Riles
-+ Running Lean by Ash Maurya
+Here are list of things which I refered for this talk:
+
+* Passionate Programmer by Chad Fowler
+* Outliers by Malcolm Gladwell
+* Rework from 37 Signals
+* I Bought the Monk's Ferrari by Ravi Subramanian
+* Do the Work by Seth Godin
+* The Bonsai Manager by Gopalakrishnan
+* The Lean Startup by Eric Riles
+* Running Lean by Ash Maurya
 
 LICENSE
 ---------
