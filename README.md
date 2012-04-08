@@ -7,6 +7,7 @@ Warangal. The talk was organized by IEEE through its STEP program.
 
 The talk was prepared using the awesome [impress.js](http://github.com/bartaz/impress.js) framework.
 
+Open the index.html file in a browser to view the talk.
 
 References
 ----------
